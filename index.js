@@ -17,7 +17,7 @@ function sayHiToGrandma() {
 }
 
 function sayHiToGrandma(sayHiToGrandma) {
-  if (sayHiToGrandma === sayHiToGrandma.lower())
+  if (sayHiToGrandma === sayHiToGrandma.toLowerCase())
   return "I can't hear you!"
   console.log("I can't hear you!")
 } {
