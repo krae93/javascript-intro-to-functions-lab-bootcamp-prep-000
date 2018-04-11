@@ -23,4 +23,5 @@ function sayHiToGrandma(sayHiToGrandma) {
 } {
 if (sayHiToGrandma === sayHiToGrandma.toUpperCase())
 return "YES INDEED!"
+console.log("YES INDEED!")
 }
