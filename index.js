@@ -21,6 +21,6 @@ function sayHiToGrandma(sayHiToGrandma) {
   return "I can't hear you!"
   console.log("I can't hear you!")
 } {
-if (sayHiToGrandma.toUpperCase === "YES INDEED!")
+if (sayHiToGrandma.upper === "YES INDEED!")
 console.log("YES INDEED!")
 }
