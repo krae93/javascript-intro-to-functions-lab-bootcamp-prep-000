@@ -20,6 +20,6 @@ function sayHiToGrandma(sayHiToGrandma) {
   if (sayHiToGrandma === sayHiToGrandma.toLowerCase())
   return "I can't hear you!"
   console.log("I can't hear you!")
-} else {
+} else if (sayHiToGrandma === sayHiToGrandma.toUpperCase()){
   console.log("YES INDEED!")
 }
